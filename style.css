@@ -13,6 +13,7 @@ p{
 
 section{
     height: 750px;
+    overflow: hidden;
 }
 
 .half-width{

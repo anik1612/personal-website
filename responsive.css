@@ -1,0 +1,12 @@
+@media only screen and (min-width: 2048px){
+    img {
+        width: 83%;
+    }
+    img#bio-img{
+    width: 75%;
+    padding-left: -41px;
+    margin-left: -144px;
+    margin-top: -267px;
+    }
+    
+}
