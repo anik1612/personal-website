@@ -10,3 +10,41 @@
     }
     
 }
+
+@media only screen and (min-width: 1080px){
+    .client-review .box {
+        margin-left: 2%;
+        width: 28.5%;
+        float: left;
+        background-color: white;
+        height: 380px;
+        display: block;
+        padding: 10px 10px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 40px grey;
+    }
+
+    .footer-box {
+        width: 40%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    img#bio-img {
+        width: 80%;
+        padding-left: -41px;
+        margin-left: -130px;
+        margin-top: 71px;
+    }
+
+    .half-width.text-part {
+        margin-top: 83px;
+        margin-left: -110px;
+    }
+
+    img {
+        width: 136%;
+    }
+}
